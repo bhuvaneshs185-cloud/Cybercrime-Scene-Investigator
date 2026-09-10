@@ -1,0 +1,6 @@
+venv/
+pycache/
+*.pyc
+database/evidence.db
+database/evidence_files/
+.vscode/
