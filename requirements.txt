@@ -1,6 +1,1 @@
-streamlit
-pandas
-numpy
-scikit-learn
-Plotly
-reportlab
+﻿streamlit>=1.30.0
